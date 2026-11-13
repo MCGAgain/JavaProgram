@@ -1,0 +1,1 @@
+{"name":"Local: GetPrime","url":"/Users/Zhuanz/Documents/JavaProgram/m09d05/GetPrime.java","tests":[{"id":1788694034146,"input":"2 20","output":"2 3 5 7 11 13 17 19\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/Zhuanz/Documents/JavaProgram/m09d05/GetPrime.java","group":"local","local":true}
