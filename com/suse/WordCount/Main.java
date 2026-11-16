@@ -43,7 +43,8 @@ public class Main {
             for (var x : merge) System.out.printf("%d-%s,", idx++, x);
             System.out.println("");
 
-            Map<String, Integer> map = new LinkedHashMap<>();
+            Map<String, Integer> map = new LinkedHashMap<
+            >();
 
             for (var x : merge) {
                 if (x.length() == 2) {
